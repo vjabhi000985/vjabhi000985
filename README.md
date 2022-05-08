@@ -6,7 +6,7 @@
 
  💬 Ask me about  **Coding and AI/ML**
 
--⚡ Fun fact **I love travelling**
+👻 Fun fact **I love travelling**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_abhi_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pandey Abhishek Nath Roy) 
