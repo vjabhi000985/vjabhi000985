@@ -1,5 +1,5 @@
 # 💫About Me :
-👋**:sunglasses:** Hi, I'm **Abhi**
+:sunglasses:Hi, I'm **Abhi**
 🔭 I’m currently working on **Road Accident Analysis**
 
 🌱 I’m currently learning **about cloud services(GCP and AWS)**
