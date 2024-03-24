@@ -1,8 +1,8 @@
-# 💫 Pandey Abhishek Nath Roy - Aspiring AI & ML Engineer :
+# 💫 Pandey Abhishek Nath Roy - Aspiring Data Scientist, AI & ML Engineer
 
 [![](https://visitcount.itsvg.in/api?id=vjabhi000985&icon=0&color=6)](https://visitcount.itsvg.in)
 
-:sunglasses:Hi, I'm **Pandey Abhishek Nath Roy**, a passionate developer currently exploring the exciting world of Artificial Intelligence and Machine Learning. I'm particularly interested in leveraging these technologies to [mention specific areas where you see AI/ML making an impact].
+:sunglasses: Hi, I'm **Pandey Abhishek Nath Roy**, a passionate developer currently exploring the exciting world of Artificial Intelligence and Machine Learning. I'm particularly interested in leveraging these technologies to [mention specific areas where you see AI/ML making an impact].
 
 🔭 I’m currently working on **Road Accident Analysis**
 
