@@ -13,20 +13,19 @@
 👻 Fun fact **I love travelling**
 
 ## ️ Current Projects:
---
 * **Sentiment Analysis with Experiment Tracking and Model Management:**
     - I'm actively working on a sentiment analysis project using MLflow for robust experiment tracking and Prefect 2.x Orion for orchestration.
     - This project emphasizes clean code practices to ensure maintainability and scalability.
 
 * **Building a Search Engine with Large Language Models (Future Project):**
     - I'm excited to explore the potential of Large Language Models (LLMs) in creating a powerful and efficient search engine solution. Stay tuned for updates on this project!
---
+
 ##  Previous Work:
 
 * **Sentiment Analysis Project:** Gained experience in sentiment analysis through a previous project.
 * **Regular Expression Checking Flask App:** Developed a Flask application for regular expression checking.
 * **Deployment on AWS EC2 Instance:** Successfully deployed an application on an AWS EC2 instance using SSH.
---
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_abhi_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandey-abhishek-nath-roy-179879222) 
 
