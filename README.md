@@ -1,6 +1,6 @@
 # 💫 Pandey Abhishek Nath Roy - Aspiring Python Developer
 
-![Badge](https://visitor-counter-badge.vercel.app/api/vjabhi000985/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
+![](https://komarev.com/ghpvc/?username=vjabhi000985&label=PROFILE+VIEWS)
 
 :sunglasses: Hi, I'm **Pandey Abhishek Nath Roy**, a passionate developer currently exploring the exciting world of Data Science, Artificial Intelligence and Machine Learning. 
 
