@@ -10,8 +10,6 @@
 
 💬 Ask me about  **Coding, Data Science and AI/ML**
 
-👻 Fun fact **I love travelling**
-
 ## ️ Current Projects:
 * **Sentiment Analysis with Experiment Tracking and Model Management:**
     - I'm actively working on a sentiment analysis project using MLflow for robust experiment tracking and Prefect 2.x Orion for orchestration.
