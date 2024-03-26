@@ -22,7 +22,7 @@
 
 * **Sentiment Analysis Project:** Gained experience in sentiment analysis through a previous project.
 * **Regular Expression Checking Flask App:** Developed a Flask application for regular expression checking.
-* **Deployment on AWS EC2 Instance:** Successfully deployed an application on an AWS EC2 instance using SSH.
+* **Successfully deployed both above application on an AWS EC2 instance using SSH.**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_abhi_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandey-abhishek-nath-roy-179879222) 
