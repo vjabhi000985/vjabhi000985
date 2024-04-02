@@ -15,10 +15,6 @@
 * **Building a Search Engine with Large Language Models (Future Project):**
     - I'm excited to explore the potential of Large Language Models (LLMs) in creating a powerful and efficient search engine solution. Stay tuned for updates on this project!
 
-* **Sentiment Analysis with Experiment Tracking and Model Management:**
-    - I'm actively working on a sentiment analysis project using MLflow for robust experiment tracking and Prefect 2.x Orion for orchestration.
-    - This project emphasizes clean code practices to ensure maintainability and scalability.
-
 ##  Previous Work:
 
 * **Sentiment Analysis Project:** Gained experience in sentiment analysis through a previous project.
