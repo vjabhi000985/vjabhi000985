@@ -15,13 +15,9 @@
 * **Building a AssemblyAI-Powered MCP Server with Claude Desktop App Integration for Prompt-Driven Audio Transcription and Analysis (Future Project):**
     - I'm excited to explore the potential of this project in creating a powerful and efficient solution. Stay tuned for updates on this project!
 
-##  Previous Work:
-
-* **Sentiment Analysis Project:** Gained experience in sentiment analysis through a previous project.
-* **Regular Expression Checking Flask App:** Developed a Flask application for regular expression checking.
-* **Successfully deployed both above application on an AWS EC2 instance using SSH.**
-* **Sentiment Analysis with Experiment Tracking and Model Management done**
-* **Building a Search Engine with Large Language Models**
+<div align="center">
+  <img src="https://github.com/vjabhi000985/vjabhi000985/blob/output/snake.gif?raw=true" width="100%"/>
+</div>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/princeabhi00985) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandey-abhishek-nath-roy-179879222) 
