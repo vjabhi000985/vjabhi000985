@@ -15,8 +15,13 @@
 * **Building a AssemblyAI-Powered MCP Server with Claude Desktop App Integration for Prompt-Driven Audio Transcription and Analysis (Future Project):**
     - I'm excited to explore the potential of this project in creating a powerful and efficient solution. Stay tuned for updates on this project!
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/vjabhi000985/vjabhi000985/blob/output/snake.gif?raw=true" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjabhi000985/vjabhi000985/blob/output/snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vjabhi000985/vjabhi000985/blob/output/snake.svg?raw=true" />
+    <img alt="Snake animation eating my contributions" src="https://github.com/vjabhi000985/vjabhi000985/blob/output/snake.svg?raw=true" width="100%"/>
+  </picture>
 </div>
 
 ## 🌐Socials
