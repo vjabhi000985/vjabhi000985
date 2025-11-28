@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png" width="180"/>
 </p>
 
-# Hi, I'm Pandey Abhishek Nath Roy
+# 🤝 Hi, I'm Pandey Abhishek Nath Roy
 ![](https://komarev.com/ghpvc/?username=vjabhi000985&label=Profile%20Views&color=ff6f61&style=flat-square)
 
 **Aspiring Python Developer • AI/ML Enthusiast • Data Science Explorer**
