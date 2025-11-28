@@ -1,7 +1,7 @@
 <p align="center">
   <img src="gitary.jpg" 
     width="100%" 
-    height="100%" 
+    height="80%" 
     alt="Guitars in studio"
   />
 </p>
