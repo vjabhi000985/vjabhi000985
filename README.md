@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitary.jpg" width="180"/>
+  <img src="gitary.jpg" />
 </p>
 
 # 🤝 Hi, I'm Pandey Abhishek Nath Roy
