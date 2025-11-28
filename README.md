@@ -65,5 +65,6 @@ A full interactive Pokédex with 99.9% accurate Legendary detector
 ---
 
 
-```markdown
-![Snake Animation](https://raw.githubusercontent.com/vjabhi000985/vjabhi000985/output/snake.gif)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
