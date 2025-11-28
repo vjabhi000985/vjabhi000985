@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="gitary.jpg" height="300"/>
+  <img src="gitary.jpg" 
+    width="100%" 
+    height="300" 
+    alt="Guitars in studio"
+  />
 </p>
 
 # 🤝 Hi, I'm Pandey Abhishek Nath Roy
