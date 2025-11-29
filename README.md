@@ -17,7 +17,7 @@ Currently building:
 - Sentiment Analysis Pipeline with **MLflow + Prefect**
 - Future: **AssemblyAI + Claude-powered Audio AI Agent**
 
-Ask me about: `Python` • `Machine Learning` • `Data Science` • `Web Scraping` • `Streamlit` • `AI`
+Ask me about: `Python` • `Machine Learning` • `Data Science` • `Web Scraping` • `Streamlit` • `AI` • `Generative AI`
 
 ---
 
