@@ -58,7 +58,6 @@ A full interactive Pokédex with 99.9% accurate Legendary detector
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vjabhi000985&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vjabhi000985&theme=tokyonight"/>
 </p>
 
