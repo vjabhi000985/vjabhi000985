@@ -7,7 +7,6 @@
 </p>
 
 # 🤝 Hi, I'm Pandey Abhishek Nath Roy
-![](https://komarev.com/ghpvc/?username=vjabhi000985&label=Profile%20Views&color=ff6f61&style=flat-square)
 
 **Aspiring Python Developer • AI/ML Enthusiast • Data Science Explorer**
 
