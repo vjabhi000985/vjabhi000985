@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="gitary.jpg" 
-    width="100%" 
-    height="400" 
-    alt="Guitars in studio"
-  />
-</p>
-
 # 🤝 Hi, I'm Pandey Abhishek Nath Roy
 
 **Aspiring Python Developer • AI/ML Enthusiast • Data Science Explorer**
